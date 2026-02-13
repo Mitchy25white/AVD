@@ -1,0 +1,10 @@
+{
+  "avd_name": "Security_Suite_Test_Node",
+  "device": "Pixel_7",
+  "target": "Android 13.0 (Google APIs)",
+  "cpu_arch": "x86_64",
+  "ram_mb": 4096,
+  "internal_storage_gb": 8,
+  "sd_card_enabled": true,
+  "simulated_network": "LTE/4G"
+}
